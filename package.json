@@ -1,0 +1,14 @@
+{
+  "name": "itad",
+  "version": "1.0.0",
+  "description": "Boilerplate for npm modules with ES6 features and syntax",
+  "main": "./lib/index.js",
+  "files": [
+    "public"
+  ],
+  "author": "putNET",
+  "license": "MIT",
+  "homepage": "https://itad.poznan.pl",
+  "devDependencies": {
+  }
+}
