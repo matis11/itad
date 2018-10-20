@@ -1,5 +1,4 @@
 language: node_js
-node_js: "7"
 
 deploy:
   provider: firebase
